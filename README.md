@@ -136,17 +136,20 @@ plt.show()
 #### Results
 
 ![Salary Distribution of Data Jobs](/Project/images/salary_boxplot.png)
+
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 ### Insights
 
-- There's a significant variation in salary ranges across different job titles. Senior Data Scientist positions tend to have the highest salary potential, with up to $600k, indicating the high value placed on advanced data skills and experience in the industry.
+- There's a significant variation in salary ranges across different job titles. Senior Data Scientist positions tend to have the highest salary, indicating the high value placed on advanced data skills and experience in the industry.
 
 - Senior Data Engineer and Senior Data Scientist roles shows considerable number of outliers on the higher end of the salary spectrum, suggesting that exceptional skills or circumstances can lead to high pay in these roles. in contrast, Data Analyst roles demonstrate more consistency in salary, with fewer outliers.
 
 - The median salaries increase with the seniority and specialization of the roles. Senior roles (Senior Data Scientist, Senior Data Engineer) not only have higher median salaries but also larger differences in typical salaries, reflecting greater variance in compensation as responsibilities increase.
 
 ### Highest Paid & Most Demanded Skills for Data Analysts
+
+Next, I narrowed my analysis and focused only on data analyst roles. I looked at the highest-paid skills and the most in-demand skills. I used two bar charts to showcase these.
 
 #### Visualize Data
 
