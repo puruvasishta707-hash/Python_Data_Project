@@ -113,7 +113,7 @@ plt.show()
 ### Insights:
 - SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
 - Excel experienced a significant decrease in demand starting around August, but still surpassing both Python and Tableau by the end of the year.
-- Both Python and tableau show relatively stable demand throughout the year while some fluctuations but remains essential skills for data analysts. Power BI, while less demanded compared to the others, shows a slight upward trend towards the year's end.
+- Both Python and tableau show relatively stable demand throughout the year while some fluctuations but remains essential skills for data analysts. SAS, while less demanded compared to the others, shows a slight upward trend towards the year's end.
 
 ## 3. How well do jobs and skills pay for Data Analysts?
 
